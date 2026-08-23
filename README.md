@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rohit785-0/leet-problems/tree/master/0051-n-queens) |
+| [0137-single-number-ii](https://github.com/rohit785-0/leet-problems/tree/master/0137-single-number-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/rohit785-0/leet-problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rohit785-0/leet-problems/tree/master/0052-n-queens-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/rohit785-0/leet-problems/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
