@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rohit785-0/leet-problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/rohit785-0/leet-problems/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/rohit785-0/leet-problems/tree/master/0137-single-number-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/rohit785-0/leet-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rohit785-0/leet-problems/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/rohit785-0/leet-problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
