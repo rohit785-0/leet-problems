@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/rohit785-0/leet-problems/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/rohit785-0/leet-problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
